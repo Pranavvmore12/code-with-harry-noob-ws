@@ -1,0 +1,15 @@
+body{
+    background-color: beige;
+}
+h1{
+    font-size: 50px;
+}
+ul{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+ul li{
+    list-style: numeric;
+    font-size: 30px;
+}

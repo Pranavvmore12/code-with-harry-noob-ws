@@ -1,0 +1,25 @@
+nav{
+    display: flex;
+    align-items:center ;
+    justify-content: space-around;
+    background-color: rgb(255, 243, 255);
+}
+
+
+nav h1{
+    font-weight: 1000;
+    color: rgb(106, 6, 200);
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+}
+nav ul{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    font-size:21px;
+
+}
+nav ul li{
+  list-style: none;
+
+}
